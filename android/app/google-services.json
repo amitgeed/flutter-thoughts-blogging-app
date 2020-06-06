@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "98585686945",
+    "firebase_url": "https://twbh-86c4c.firebaseio.com",
+    "project_id": "twbh-86c4c",
+    "storage_bucket": "twbh-86c4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98585686945:android:7d561a54a98cfb9ba0d1e0",
+        "android_client_info": {
+          "package_name": "com.amitgeed.twbh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98585686945-gnn0gll0tb6slkj023guc1r3ren3kk6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-6mrP55isiu5Id-t8_ZY5RTWgiAXCNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98585686945-gnn0gll0tb6slkj023guc1r3ren3kk6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
